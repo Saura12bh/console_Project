@@ -44,7 +44,7 @@ public class MainApplication {
 				}
 				break;
 			case 2:
-				System.out.println(" Welcome Studnet ");
+				
 				break;
 			}
 			
